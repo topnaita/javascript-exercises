@@ -1,5 +1,5 @@
 function numberChecker(number) {
-  if (number === 6) {
+  if (number === 1000 || number === 10 || number === 8 || number === 7) {
     return true;
   } else {
     return false;
