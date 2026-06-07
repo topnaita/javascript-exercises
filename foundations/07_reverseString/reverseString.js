@@ -1,5 +1,7 @@
-const reverseString = function() {
+const reverseString = function (srt) {
+  srt = "hello there";
 
+  return str.split(" ").reverse();
 };
 
 // Do not edit below this line
